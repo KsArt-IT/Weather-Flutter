@@ -6,6 +6,10 @@ Weather anywhere in the world - Weather App
 
 ![Screenshots of the app](images/screenshots.png)
 
+## Start App
+create file .env and add a line to it with
+API_KEY=your_api_key
+
 ## Architecture
 
 - [Clean-Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
